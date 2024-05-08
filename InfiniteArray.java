@@ -32,3 +32,4 @@ public class InfiniteArray {
         return -1;
     }
 }
+//output= 4
